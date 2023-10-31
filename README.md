@@ -5,6 +5,8 @@ Welcome to our repository! Here, you'll find a collection of face images that ar
 
 We got these images from a bigger collection on Kaggle. We used some pretty cool tech to find and cut out the faces from the original pictures. Then, we resized them to fit FaceNet's requirements.
 
+: [Source Of Images](https://www.kaggle.com/datasets/vishesh1412/celebrity-face-image-dataset)
+
 ## Français
 Bienvenue dans notre dépôt! Ici, vous trouverez une collection d'images de visages prêtes à l'emploi et parfaitement dimensionnées pour le modèle FaceNet. Chaque image mesure 160x160px, juste la taille requise pour FaceNet.
 
